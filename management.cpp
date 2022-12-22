@@ -1,16 +1,7 @@
 #include<iostream>
 using namespace std;
 //Bank Management System using Class & inheritance in C++
-/*
-    1.Saving Account
-    2.current Account
- 
-    Account Creation
-    Deposit
-    Withdraw
-    Balance
- 
-*/
+
 class account
 {
 private:
